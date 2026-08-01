@@ -1,0 +1,9 @@
+{
+  "name": "departamentos-inspiracion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page trilingüe de Departamentos Inspiración — Nayar Realty",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
